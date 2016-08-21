@@ -1,0 +1,24 @@
+body {
+  font-family: "Sans Narrow", "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: normal;
+  margin: 0px;
+  text-transform: uppercase;
+  color: #333333;
+  background-color: #f2f2f2;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 42px;
+  font-weight: bold;
+  color: #000000
+}
+
+h2 {
+  font-size: 26px;
+  line-height: 30px;
+  font-weight: bold;
+  color: #000000
+}
